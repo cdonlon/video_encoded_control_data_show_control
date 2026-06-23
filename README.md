@@ -17,7 +17,8 @@ This system is designed for any application requiring synchronized, reliable, an
 * **Industrial Automation**: Air-gapped control distribution for manufacturing, automated warehouses, and process lines[cite: 3].
 
 ## Documentation
-The full technical disclosure can be found in [DEFENSIVE_PUBLICATION.md](./DEFENSIVE_PUBLICATION.md).
+The full technical disclosure can be found in [Video-Encoded Real-Time Control Data System.md
+](./Video-Encoded Real-Time Control Data System.md).
 
 ## License
 This work is dedicated to the public domain under the [CC0 1.0 Universal Public Domain Dedication](LICENSE)[cite: 3].
