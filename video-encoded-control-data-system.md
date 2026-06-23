@@ -1,5 +1,3 @@
----
-
 # Video-Encoded Real-Time Control Data System
 
 **Author:** Cameron Donlon
